@@ -1,0 +1,4 @@
+Sigit RESOLUSI
+- Konsisten untuk belajar WEB Programing.
+- Belajar tentang GIT
+- Belajar Laravel hingga faham
